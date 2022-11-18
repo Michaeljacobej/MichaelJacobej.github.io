@@ -1304,7 +1304,7 @@ input, select, textarea {
 
 		#header .content {
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: #f5e9e9;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1546,6 +1546,9 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
+			/* display: flex; */
+			/* flex-direction: row; */
+			/* justify-content: space-around; */
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
 			opacity: 0;
